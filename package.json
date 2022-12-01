@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@badgifter/core": "^2.7.54",
+    "@badgifter/eosjs2": "^1.5.36",
     "@scatterjs/eosjs2": "github:badgifter/scatterjs-eosjs2",
     "elliptic": "^6.5.3",
     "eosjs": "github:badgifter/eosjs",

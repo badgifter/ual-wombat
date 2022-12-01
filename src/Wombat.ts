@@ -1,5 +1,5 @@
 import ScatterJS from '@badgifter/core'
-import ScatterEOS from '@scatterjs/eosjs2'
+import ScatterEOS from '@badgifter/eosjs2'
 import {
     Authenticator, ButtonStyle, Chain,
     UALError, UALErrorType, User
