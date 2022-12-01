@@ -15,10 +15,10 @@
     "build": "rm -rf dist && tsc --build tsconfig.json"
   },
   "dependencies": {
-    "@scatterjs/core": "github:badgifter/scatterjs-core",
+    "@badgifter/core": "^2.7.54",
     "@scatterjs/eosjs2": "github:badgifter/scatterjs-eosjs2",
     "elliptic": "^6.5.3",
-    "eosjs": "^21.0.3",
+    "eosjs": "github:badgifter/eosjs",
     "universal-authenticator-library": "^0.3.0"
   },
   "devDependencies": {

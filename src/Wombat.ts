@@ -1,4 +1,4 @@
-import ScatterJS from '@scatterjs/core'
+import ScatterJS from '@badgifter/core'
 import ScatterEOS from '@scatterjs/eosjs2'
 import {
     Authenticator, ButtonStyle, Chain,
